@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shreyagade.github.io/static/css/main.9e8ed857.css",
+    "main.js": "/shreyagade.github.io/static/js/main.92b3ca66.js",
+    "static/js/787.d3befce1.chunk.js": "/shreyagade.github.io/static/js/787.d3befce1.chunk.js",
+    "static/media/resume.pdf": "/shreyagade.github.io/static/media/resume.a37578a0c8632b48b5fb.pdf",
+    "static/media/img2.png": "/shreyagade.github.io/static/media/img2.8c50e22a1acd5bb9eef4.png",
+    "static/media/img1.png": "/shreyagade.github.io/static/media/img1.1660e5634f90ecc94070.png",
+    "static/media/logo.png": "/shreyagade.github.io/static/media/logo.282070afe753065d3530.png",
+    "index.html": "/shreyagade.github.io/index.html",
+    "main.9e8ed857.css.map": "/shreyagade.github.io/static/css/main.9e8ed857.css.map",
+    "main.92b3ca66.js.map": "/shreyagade.github.io/static/js/main.92b3ca66.js.map",
+    "787.d3befce1.chunk.js.map": "/shreyagade.github.io/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e8ed857.css",
+    "static/js/main.92b3ca66.js"
+  ]
+}
